@@ -67,6 +67,8 @@ subjects = ["Math", "Science", "English"]
 subjects = ", ".join(subjects)
 
 # List to Tuple
+#  tople is immutable and list is mutable so we can convert list to tuple and tuple to list in python
+
 marks = [90, 80, 70]
 marks = tuple(marks)
 
