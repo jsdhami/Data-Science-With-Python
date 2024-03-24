@@ -6,6 +6,7 @@ print("Hello World !")
 # print("Hello", name)
 
 
+
 # Data Types in Python
 
 #  String DataType
